@@ -1,2 +1,1 @@
-![Screenshot_20240721_004156_Currency Converter](https://github.com/user-attachments/assets/ea28e3b7-d37f-4114-b5f2-19a1e9f00ecc)
-![Screenshot_20240721_004205_Currency Converter](https://github.com/user-attachments/assets/8418b082-399b-49ef-8ae0-1e92eefded8f)
+<img width="727" alt="Frame 1" src="https://github.com/user-attachments/assets/ae51400f-d5d0-452a-b1f3-24fca4643be8">
